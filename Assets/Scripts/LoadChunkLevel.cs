@@ -17,7 +17,7 @@ public class LoadChunkLevel : MonoBehaviour
             GameObject newChunk = Instantiate<GameObject>(nextChunk);
             newChunk.transform.position = nextChunkLoc.position;
 
-            Destroy(curChunk, 10f);
+            Destroy(curChunk, 5f);
         }
     }
 }
