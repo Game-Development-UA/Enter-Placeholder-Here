@@ -412,7 +412,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nextChunkLoc: {fileID: 8221600229646623147}
   curChunk: {fileID: 6617956044762600886}
-  nextChunk: {fileID: 6617956044762600886}
+  Prefab1: {fileID: 6617956044762600886}
+  Prefab2: {fileID: 3033367114479131506, guid: b023ab673a71b6d46b51d01f498f8691, type: 3}
+  Prefab3: {fileID: 6322577664753731383, guid: ed67a793726439e45ae0271f2fcf162d, type: 3}
 --- !u!1001 &125297279069192364
 PrefabInstance:
   m_ObjectHideFlags: 0
